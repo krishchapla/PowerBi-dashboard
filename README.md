@@ -1,8 +1,7 @@
 
 
 # 📊 Sales & Customer KPI Dashboard
-
-![Dashboard Screenshot](./path-to-your-image/Screenshot-2025-07-21-203901.png)
+<img width=1800  height=1000 alt="image" src=""
 
 🔗 **Live Dashboard / Report Link:** [](#)
 
@@ -27,7 +26,7 @@ This repository provides the basic data analytics tools related to power BI and 
 
 ## 📁 Files
 
-- `Screenshot-2025-07-21-203901.png` – Image of the dashboard.
+-  – Image of the dashboard.
 - `README.md` – This file with dashboard details.
 
-> **Note**: Update the image path (`./path-to-your-image/`) and report link according to your GitHub repository structure.
+
