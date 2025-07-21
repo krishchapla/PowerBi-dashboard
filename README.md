@@ -1,9 +1,8 @@
 
 
 # 📊 Sales & Customer KPI Dashboard
-<img width=1800  height=1000 alt="image" src=""
+<img width=1800  height=1000 alt="image" src="https://github.com/krishchapla/PowerBi-dashboard/blob/main/Screenshot%202025-07-21%20203901.png"/>
 
-🔗 **Live Dashboard / Report Link:** [](#)
 
 ## 🧾 Description
 
@@ -26,7 +25,6 @@ This repository provides the basic data analytics tools related to power BI and 
 
 ## 📁 Files
 
--  – Image of the dashboard.
-- `README.md` – This file with dashboard details.
+[Dashboard link:- ]()
 
 
