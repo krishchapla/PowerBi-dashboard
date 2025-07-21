@@ -25,6 +25,6 @@ This repository provides the basic data analytics tools related to power BI and 
 
 ## 📁 Files
 
-[Dashboard link:- ]()
+[Dashboard link:- ](https://github.com/krishchapla/PowerBi-dashboard/blob/main/Dashboard.pbix)
 
 
